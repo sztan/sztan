@@ -1,2 +1,2 @@
 Hello :-) You're on my special repo !
-Link to my resume : [here](/ "Stan's resyume")
+Link to my resume : [here](https://sztan.github.io "Stan's resyume")
